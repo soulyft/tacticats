@@ -1,5 +1,4 @@
 # tacticats
-Tacticats is a tic-tac-toe/checkers combination WebGL made with Unity
 
 Tacticats is my debut game, created for the Ludwig Jam 2023. This game is a fusion of tic-tac-toe and checkers, featuring chess-style pieces representing Ludwig, QT, Ders, and COOTS. Each piece can move one space at a time and jump over pieces of the same color (Ludwig over Ludwig, QT over QT, and cats over cats). Two players take turns moving pieces to try and get three in a row for victory.
 
